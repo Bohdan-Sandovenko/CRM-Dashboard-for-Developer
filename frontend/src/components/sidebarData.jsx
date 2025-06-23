@@ -15,9 +15,9 @@ export const sidebarData = [
         link: "/home "
     },
     {
-        title: "Home",
+        title: "Profile",
         icon: <AccountCircleIcon />,
-        link: "/account "
+        link: "/profile "
     },
     {
         title: "Statystic",
