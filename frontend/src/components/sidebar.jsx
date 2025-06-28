@@ -10,7 +10,7 @@ function Sidebar() {
             <ul className='SidebarList'>
             {sidebarData.map((val, key)=>{
                     return(<li key={key} 
-                        className='row'
+                        className='text-red-500'
                         id={window.location.pathname == val.link ? "active" :  ""}
                         onClick={()=> navigate(val.link)}>
                         

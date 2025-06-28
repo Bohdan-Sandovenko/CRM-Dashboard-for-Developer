@@ -4,6 +4,7 @@ import {BrowserRouter} from "react-router-dom";
 import './index.css'
 import App from './App.jsx'
 
+
 // Create a root container for the React app.
 // ReactDOM.createRoot initializes a React root
 // using the HTML element with id 'root'.
